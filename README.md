@@ -1,15 +1,15 @@
-### Oie! Sou a Kelly.
+<h1 align="center">Oie! eu sou a Kelly.</h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=header"/>
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=09E4E6&icon_color=E09ECE&text_color=c9d1d9&bg_color=131313" alt="Kelly Cristina Moreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=09E4E6&text_color=E09ECE&bg_color=131313" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=09E4E6&icon_color=E09ECE&text_color=c9d1d9&bg_color=0d1117" alt="Kelly Cristina Moreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=09E4E6&text_color=E09ECE&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=131313&color=09E4E6&line=E621AF&point=EFD54E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=0d1117&color=09E4E6&line=E621AF&point=EFD54E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -35,6 +35,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=footer"/>
