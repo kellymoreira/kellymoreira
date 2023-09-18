@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=header"/>
 
 
@@ -59,11 +60,12 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
 
 
+ <a href="https://giphy.com/"> <img src="https://media4.giphy.com/media/h2NUirqljgJ8S3bNrU/giphy.gif?cid=ecf05e47io82d64uv1mwre80k0p74yehum8j1wmj780fzgy1&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://giphy.com/"></a>
+
 <div align="center">
 <br><p align="centre"><b>ᴄᴏɴᴛᴀᴅᴏʀ ᴅᴇ ᴠɪꜱɪᴛᴀꜱ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=footer"/>
