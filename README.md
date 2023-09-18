@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Oie%F0%9F%91%8B%F0%9F%8F%BB;Sou+a+Kelly.)](https://git.io/typing-svg)
 
 
 <h3 align="center"> Uma Desenvolvedora Júnior com o foco em ser Full Stack.
-Busco dominar as camadas das aplicações de um software e resolucionar problemas por meio de códigos e tecnologias. 
+Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. 
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, desde a interface e experiência do usuário (front-end) até o servidor, banco de dados e lógica do lado do servidor (back-end).</h3>
 
 
@@ -50,18 +51,14 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
  ### Ferramentas:
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-          
- 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/product)
           
 
 <div align="center">
+<br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
 <br>
 </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=footer"/>
-
-
-
-
