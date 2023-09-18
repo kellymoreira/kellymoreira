@@ -9,11 +9,15 @@ Busco dominar as camadas das aplicações de um software e solucionar problemas 
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, desde a interface e experiência do usuário (front-end) até o servidor, banco de dados e lógica do lado do servidor (back-end).</h3>
 
 
- ### Um pouco sobre mim:
+ ### 𝓤m pouco sobre mim˚｡⋆ ༊ .˚｡⋆
 
-🙋🏼‍♀️ Personalidade: INFJ-A (16 Personalities) | Estável (DISC);
+🙋🏼‍♀️ Personalidade: INFJ-A (16 Personalities) | Estável (DISC)
 
-🎤 Minha cantora preferida é a Lana Del Rey;
+🎤 Minha cantora favorita é a Lana Del Rey
+
+🌎 Gosto de estudar Inglês e aprender novos vocabulários/expressões idiomáticas
+
+Amo organizar e personalizar o meu Notion
 
 
 <div align="center">  
@@ -36,26 +40,27 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
 </div>
 
- ### Atualmente Estudando:
+ ### 𝓐tualmente 𝓔studando˚｡⋆ ༊ .˚｡⋆
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href= "https://developer.mozilla.org/en-US/docs/Web/Html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/pt/free/?trk=0c09a3fd-f26f-4a26-8dcf-12a3016d392d&sc_channel=ps&s_kwcid=AL!4422!10!71605922711135!71606443844155&ef_id=f740a40f5abe16677b84c108b0d73cdf:G:s" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
- ### Estão no meu Radar:
+ ### 𝓔stão no meu ℛadar˚｡⋆ ༊ .˚｡⋆
 
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/> </a>
         
- ### Ferramentas:
+ ### ℱerramentas.˚｡⋆ ༊ .˚｡⋆
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/product)
-          
+<a href="https://www.notion.so/product" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="Notion" width="40" height="40"/> </a>
+
+
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
+<br><p align="centre"><b>ᴄᴏɴᴛᴀᴅᴏʀ ᴅᴇ ᴠɪꜱɪᴛᴀꜱ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
 <br>
 </div>
