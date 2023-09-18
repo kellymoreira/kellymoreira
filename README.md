@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Oie%F0%9F%91%8B%F0%9F%8F%BB;Sou+a+Kelly.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Oie%F0%9F%91%8B%F0%9F%8F%BB;Sou+a+Kelly.)](https://git.io/typing-svg)
 
 
 <h3 align="center"> Uma Desenvolvedora Júnior com o foco em ser Full Stack.
