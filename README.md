@@ -1,4 +1,3 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E621AF&height=120&section=header"/>
 
 
@@ -12,13 +11,13 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
  ### 𝓤m pouco sobre mim˚｡⋆ ༊ .˚｡⋆
 
-🙋🏼‍♀️ 🗣️ Personalidade INFJ-A (16 Personalities) | Estável (DISC);
+🙋🏼‍♀️ Personalidade INFJ-A (16 Personalities) | Estável (DISC);
+
+🌎 Gosto de estudar Inglês e aprender novos vocabulários/expressões idiomáticas;
 
 🎧 Minha cantora favorita é a Lana Del Rey;
 
-🌎 Gosto de estudar Inglês e aprender novos vocabulários/expressões idiomáticas
-
-🗂️ Amo organizar e personalizar o meu Notion
+🗂️ Amo organizar e personalizar o meu Notion.
 
 
 <div align="center">  
