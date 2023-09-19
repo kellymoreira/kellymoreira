@@ -16,7 +16,7 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
 🌎 Gosto de estudar Inglês e aprender novos vocabulários/expressões idiomáticas;
 
-🎧 Minha cantora favorita é a Lana Del Rey;
+🎧 Minha cantora favorita é a Lana Del Rey.
 
 
 <div align="center">  
