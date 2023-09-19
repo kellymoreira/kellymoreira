@@ -41,7 +41,7 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
 <div>
   
- <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://giphy.com/"></a>
+ <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://giphy.com/"></a>
 </div>
 
  ### 𝓐tualmente 𝓔studando˚｡⋆ ༊ .˚｡⋆
