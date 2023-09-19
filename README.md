@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Olá!%F0%9F%91%8B%F0%9F%8F%BB;Pode+me+Chamar+de+Kelly.)](https://git.io/typing-svg)
 
+##
 
 <h3 align="center"> Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack.
 Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. 
