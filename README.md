@@ -39,11 +39,6 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 </div>
 
 
-<div>
-  
- <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://giphy.com/"></a>
-</div>
-
  ### 𝓐tualmente 𝓔studando˚｡⋆ ༊ .˚｡⋆
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href= "https://developer.mozilla.org/en-US/docs/Web/Html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
@@ -51,23 +46,26 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 <a href="https://aws.amazon.com/pt/free/?trk=0c09a3fd-f26f-4a26-8dcf-12a3016d392d&sc_channel=ps&s_kwcid=AL!4422!10!71605922711135!71606443844155&ef_id=f740a40f5abe16677b84c108b0d73cdf:G:s" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 
-
  ### 𝓔stão no meu ℛadar˚｡⋆ ༊ .˚｡⋆
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/> </a>
 
-
- ### ℱerramentas˚｡⋆ ༊ .˚｡⋆
+ ### ℱerramentas˚｡⋆ ༊ .˚｡⋆ 
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.notion.so/product" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="Notion" width="40" height="40"/> </a>
 
 
+<div>
 
-<div align="center">
-<br><p align="centre"><b>ᴄᴏɴᴛᴀᴅᴏʀ ᴅᴇ ᴠɪꜱɪᴛᴀꜱ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
+ <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="400" height="400" border="0" alt="https://giphy.com/" /></a><br /><a href="https://giphy.com/"></a>
+</div>
+
+
+<div align="left">
+<br><p align="left"><b>ᴄᴏɴᴛᴀᴅᴏʀ ᴅᴇ ᴠɪꜱɪᴛᴀꜱ</b></p>  
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
 <br>
 </div>
 
