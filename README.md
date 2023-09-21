@@ -46,7 +46,6 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 <a href="https://developer.mozilla.org/en-US/docs/Web/Css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/pt/free/?trk=0c09a3fd-f26f-4a26-8dcf-12a3016d392d&sc_channel=ps&s_kwcid=AL!4422!10!71605922711135!71606443844155&ef_id=f740a40f5abe16677b84c108b0d73cdf:G:s" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
-
  ### 𝓔stão no meu ℛadar˚｡⋆ ༊ .˚｡⋆
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a>
