@@ -7,14 +7,14 @@
 ##
 
 <span style="color: white">
-
 <h3 align="center"> Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack.
 Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. 
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, desde a interface e experiência do usuário (Front-end) até o servidor, banco de dados e lógica do lado do servidor (Back-end).</h3>
-
 </span>
 
+<span style="color:white">
  ### 𝓤m pouco sobre mim˚｡⋆ ༊ .˚｡⋆
+</span>
 
 🙋🏼‍♀️ Personalidade INFJ-A (16 Personalities) | Estável (DISC);
 
@@ -41,19 +41,24 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellyyy_cris/)
 </div>
 
-
+<span style="color:white">
  ### 𝓐tualmente 𝓔studando˚｡⋆ ༊ .˚｡⋆
+ </span>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href= "https://developer.mozilla.org/en-US/docs/Web/Html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Css" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/pt/free/?trk=0c09a3fd-f26f-4a26-8dcf-12a3016d392d&sc_channel=ps&s_kwcid=AL!4422!10!71605922711135!71606443844155&ef_id=f740a40f5abe16677b84c108b0d73cdf:G:s" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
+<span style="color:white">
  ### 𝓔stão no meu ℛadar˚｡⋆ ༊ .˚｡⋆
+ </span>
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/> </a>
 
+<span style="color:white">
  ### ℱerramentas˚｡⋆ ༊ .˚｡⋆ 
+ </span>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.notion.so/product" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="Notion" width="40" height="40"/> </a>
