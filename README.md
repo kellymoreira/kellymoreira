@@ -6,10 +6,13 @@
 
 ##
 
+<span style="color: white">
+
 <h3 align="center"> Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack.
 Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. 
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, desde a interface e experiência do usuário (Front-end) até o servidor, banco de dados e lógica do lado do servidor (Back-end).</h3>
 
+</span>
 
  ### 𝓤m pouco sobre mim˚｡⋆ ༊ .˚｡⋆
 
