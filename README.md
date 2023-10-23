@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./handwriting-1.svg" alt="Kelly's Assignature" />
+    <img src="./assignature.svg" alt="Kelly's Assignature" />
 </div>
 
 <p align="center"> 
