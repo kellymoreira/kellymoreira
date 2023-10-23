@@ -16,7 +16,6 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 </div>
 
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
