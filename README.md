@@ -9,8 +9,7 @@ Busco dominar as camadas das aplicações de um software e solucionar problemas 
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, desde a interface e experiência do usuário (Front-end) até o servidor, banco de dados e lógica do lado do servidor (Back-end).<br>
 </strong>
 <p>
-
-
+    
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043" alt="Kelly Cristina Moreira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043" />
