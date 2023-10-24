@@ -64,7 +64,12 @@ Bora Conversar? ✨
  <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="left" width="400" height="400" border="0" alt="https://giphy.com/" /></a><br /><a href="https://giphy.com/"></a>
 </div>
 
-<br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div align="right">
   <br>
