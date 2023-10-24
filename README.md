@@ -19,14 +19,15 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+<div align="center">
 
-<p align="center">
+<p>
 <strong>
-Linguagens · Frameworks · Ferramentas ⚙️
+Linguagens · Frameworks · Ferramentas ⚒️
 </strong>
 <p>
 
-<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -42,6 +43,7 @@ Linguagens · Frameworks · Ferramentas ⚙️
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="Notion" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+
 <br>
 
 <p align="center">
