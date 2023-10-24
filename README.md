@@ -18,18 +18,11 @@ Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, de
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellyyy_cris/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
-</div>
+<br>
 
 <p align="center">
 <strong>
-Linguagens · Frameworks · Ferramentas
+Linguagens · Frameworks · Ferramentas ⚙️
 </strong>
 <p>
 
@@ -49,14 +42,22 @@ Linguagens · Frameworks · Ferramentas
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="Notion" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+<br>
+
+<p align="center">
+<strong>
+Bora Conversar? ✨
+</strong>
+<p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellyyy_cris/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
+</div>
 
 
 <div>
  <a href="https://giphy.com/" ><img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" img align="right" width="400" height="400" border="0" alt="https://giphy.com/" /></a><br /><a href="https://giphy.com/"></a>
-</div>
-
-<div align="left">
-<br><p align="left"><b>ᴄᴏɴᴛᴀᴅᴏʀ ᴅᴇ ᴠɪꜱɪᴛᴀꜱ</b></p>  
-<p align="left"><img align="left" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" /></p> 
-<br>
 </div>
