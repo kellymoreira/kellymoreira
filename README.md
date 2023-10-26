@@ -72,7 +72,7 @@ Bora Conversar? ✨
   <br>
   <p align="right">
     <strong>
-      <b>Que alegria te ver por aqui! <br> Até a próxima.👋🏼</b>
+      <b>Que alegria te ver por aqui! <br> Até a próxima.👋🏻</b>
     </strong>
   </p>
     
