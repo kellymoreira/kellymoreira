@@ -4,8 +4,7 @@
 
 <p align="center"> 
 <strong>
-Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack. <br>
-Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. <br>
+Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack. <br> Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. <br>
 Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, <br> desde a interface e experiência do usuário até o servidor, banco de dados e lógica do lado do servidor.<br>
 </strong>
 <p>
