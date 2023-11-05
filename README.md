@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./assignature.svg" alt="Kelly's Assignature" />
 </div>
+
     
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043" alt="Kelly Cristina Moreira github stats" /> 
