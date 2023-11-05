@@ -1,13 +1,6 @@
 <div align="center">
     <img src="./assignature.svg" alt="Kelly's Assignature" />
 </div>
-
-<p align="center"> 
-<strong>
-Sou uma Desenvolvedora Júnior com o foco de me tornar Full-Stack. <br> Busco dominar as camadas das aplicações de um software e solucionar problemas por meio de códigos e tecnologias. <br>
-Meu objetivo é ser capaz de trabalhar em todas as partes de uma aplicação, <br> desde a interface e experiência do usuário até o servidor, banco de dados e lógica do lado do servidor.<br>
-</strong>
-<p>
     
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043" alt="Kelly Cristina Moreira github stats" /> 
