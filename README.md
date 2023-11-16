@@ -16,7 +16,7 @@
 
 <p>
 <strong>
-Linguagens · Frameworks · Ferramentas ⚒️
+Linguagens · Frameworks · Ferramentas
 </strong>
 <p>
 
@@ -60,15 +60,6 @@ Bora Conversar? ✨
 
 <br><br><br><br><br><br><br><br>
 
-
-<div align="right">
-  <br>
-  <p align="right">
-    <strong>
-      <b>Que alegria te ver por aqui! <br> Até a próxima.👋🏻</b>
-    </strong>
-  </p>
-    
   <p align="right">
     <img style="float: right;" src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" />
   </p>
