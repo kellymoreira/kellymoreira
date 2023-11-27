@@ -11,14 +11,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
 <div align="center">
 
-<p>
-<strong>
-Linguagens · Frameworks · Ferramentas
-</strong>
-<p>
+<h3> 
+    Linguagens · Frameworks · Ferramentas
+</h3>
 
 
 
@@ -37,13 +34,11 @@ Linguagens · Frameworks · Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
-<br>
 
-<p align="center">
-<strong>
-Bora Conversar? ✨
-</strong>
-<p>
+<h3> 
+   Bora Conversar? ✨
+ </h3>
+
 
 <div align="center">
 
