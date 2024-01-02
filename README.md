@@ -8,6 +8,10 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=F1B4BB&border=F1B4BB&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak" /></a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
+
 <h3> 
     Linguagens · Frameworks · Ferramentas
 </h3>
@@ -27,14 +31,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
-<h3> 
-   Bora Conversar? ✨
- </h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
-
 </div>
 
 <div align="left">
@@ -48,3 +44,4 @@
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
+
