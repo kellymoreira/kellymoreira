@@ -4,7 +4,6 @@
 <img width="59%" height="195px" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043">
 <img width="39%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=FDF0F0&border=F1B4BB&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
@@ -35,16 +34,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
-</div>
+<br>
+<br>
 
-<div align="left">
-  <a href="https://giphy.com/">
-    <img src="https://media3.giphy.com/media/wAyLMQHWdkYAAO2RSd/giphy.gif?cid=ecf05e47xvwiy1m7sh4boxc0hu8zvv683w1354x3evnmf880&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400" height="400" border="0" alt="https://giphy.com/" />
-  </a><br /><a href="https://giphy.com/"></a>
-</div>
-
-<div align="left">
   <p>
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
+
