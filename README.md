@@ -2,11 +2,15 @@
     <img src="./assignature.svg" alt="Kelly's Assignature" />
 
 <img width="59%" height="195px" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043">
-  <img width="39%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
+<img width="39%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=F1B4BB&border=F1B4BB&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
+
+<br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
