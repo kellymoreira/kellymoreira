@@ -1,23 +1,15 @@
 <div align="center">
     <img src="./assignature.svg" alt="Kelly's Assignature" />
-</div>
-
-    
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043" alt="Kelly Cristina Moreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043" />
-</div>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=F1B4BB&border=F1B4BB&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak" /></a>
 
 <h3> 
     Linguagens · Frameworks · Ferramentas
 </h3>
-
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -34,19 +26,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
-
 <h3> 
    Bora Conversar? ✨
  </h3>
 
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
-</div>
 
+</div>
 
 <div align="left">
   <a href="https://giphy.com/">
@@ -54,11 +42,8 @@
   </a><br /><a href="https://giphy.com/"></a>
 </div>
 
-
-
 <div align="left">
   <p>
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
-
