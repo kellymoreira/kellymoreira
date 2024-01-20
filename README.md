@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=false&ring=F1B4BB&fire=F1B4BB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1B4BB&background=132043&dates=FFFFFF&stroke=FFFFFF&border=FFFFFF&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=false&ring=FAEF9B&fire=FAEF9B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1B4BB&background=132043&dates=FFFFFF&stroke=FFFFFF&border=FFFFFF&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
 
 <br>
 <br>
