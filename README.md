@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./assignature.svg" alt="Kelly's Assignature" />
 
-<img width="59%" height="195px" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=false&title_color=F1B4BB&icon_color=1F4172&text_color=FDF0F0&bg_color=132043">
+<img width="59%" height="195px" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=false&title_color=F1B4BB&icon_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
 <img width="39%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=false&title_color=F1B4BB&text_color=FDF0F0&bg_color=132043">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -43,4 +43,5 @@
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
+
 
