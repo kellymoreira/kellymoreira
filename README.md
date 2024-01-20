@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FDF0F0&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=false&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=FDF0F0&border=F1B4BB&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=false&ring=F1B4BB&fire=F1B4BB&currStreakNum=FDF0F0&sideNums=FDF0F0&currStreakLabel=F1B4BB&background=132043&dates=FDF0F0&stroke=FDF0F0&border=ffffff&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
 
 <br>
 <br>
@@ -35,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
-
 <br>
 <br>
 
@@ -43,5 +42,3 @@
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
-
-
