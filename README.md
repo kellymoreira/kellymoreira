@@ -8,7 +8,7 @@
 
 <img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1B4BB&background=132043&dates=FFFFFF&stroke=FFFFFF&border=FFFFFF&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
