@@ -1,3 +1,95 @@
+
+``````````````````````````````````````````````````````````````````````
+                                                   
+          ⠀⠀                                        ⢠⡤⢺⣿⣿⣿⣿⣿⣶⣄
+                                                    ⠉⠀⠘⠛⠉⣽⣿⣿⣿⣿⡇
+ _       __     __                                        ⢉⣿⣿⣿⣿⡗
+| |     / /__  / /________  ____ ___  ___          ⢀⣀⡀⢀⣀⣤⣤⣽⣿⣼⣿⢇⡄
+| | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \          ⠙⠗⢸⣿⠁⠈⠋⢨⣏⡉⣳
+| |/ |/ /  __/ / /__/ /_/ / / / / / /  __/            ⢸⣿⡄⢠⣴⣿⣿⣿
+|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/            ⠉⣻⣿⣿⣿⣿⣿⡟⡀
+                                                 ⠀⠀⠀⠀⠐⠘⣿⣶⡿⠟⠁⣴⣿⣄
+                                                 ⠀⠀⠀⠀⠀⠘⠛⠉⣠⣴⣾⣿⣿⣿⡦
+                                                 ⠀⠀⢀⣴⣠⣄⠸⠿⣻⣿⣿⣿⣿⠏
+                                                 ⠀⣠⣿⣿⠟⠁                  
+                                                               
+``````````````````````````````````````````````````````````````````````````````
+
+⡤⢺⣿⣶⣄⠉⠘⠛⠉⣽⣿⡇⢉⣿⡗⢀⣤⣽⣿⣼⣿⢇⡄⠙⠗⢸⣿⠁⠈⠋⢨⣏⡉⣳⢸⣿⡄⢠⣴⣿⠉⣻⣿⣿⡟⡀⠐⠘⣿⣶⡿⠟⠁⣴⣿⣄⠘⠛⠉⣠⣴⣾⣿⡦⢀⣴⣠⣄
+
+
+
+
+
+
+
+
+```js
+import Developer from kellymoreira;
+
+class AboutMe extends Developer {
+  name = "Kelly Cristina Moreira";
+  age = "19";
+}
+
+class Skills extends Developer {
+  languages = ["JavaScript", "Java"];
+  databases = ["MySQL", "PostgreSQL", "MongoDB"];
+  management = ["Jira", "Notion"];
+  testing = "Postman";
+  cloud = "AWS";
+}
+
+```
+
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kellymoreira&theme=calm&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kellymoreira&theme=calm)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+----
+
+
+<a href="mailto:kelly.moreira0510@gmail.com">
+  <img align="right" alt="Gmail" width="30px" src="archives/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
+  <img align="right" alt="LinkedIn" width="25px" src="archives/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/kellycrmo">
+  <img align="right" alt="Instagram" width="30px" src="archives/instagram.png" />
+</a>  
+
+
+
+<p>
+    <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <div align="center">
     <img src="./assignature.svg" alt="Kelly's Assignature" />
 
@@ -18,7 +110,4 @@
     <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
   </p>
 </div>
-
-
-
-
+-->
