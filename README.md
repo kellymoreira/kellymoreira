@@ -24,6 +24,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
+  certifications = "CLF-C02"
   languages = ["JavaScript", "Java"];
   databases = ["MySQL", "PostgreSQL", "MongoDB"];
   management = ["Jira", "Notion"];
