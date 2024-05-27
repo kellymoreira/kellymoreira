@@ -41,7 +41,7 @@ class Skills extends Developer {
 ----
 
 
-<a href="mailto:kelly.moreira0510@gmail.com">
+<a href="mailto:kelly.moreira0510@proton.me">
   <img align="right" alt="Gmail" width="30px" src="archives/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
