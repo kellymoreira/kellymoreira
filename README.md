@@ -28,7 +28,6 @@ class Skills extends Developer {
   languages = ["JavaScript", "Java"];
   databases = ["MySQL", "PostgreSQL", "MongoDB"];
   management = ["Jira", "Notion"];
-  testing = "Postman";
   cloud = "AWS";
 }
 
