@@ -1,105 +1,36 @@
-
-`````````````````````````````````````````````````````````````````````
-          ⠀⠀                                        ⢠⡤⢺⣿⣿⣿⣿⣿⣶⣄
-                                                    ⠉⠀⠘⠛⠉⣽⣿⣿⣿⣿⡇
- _       __     __                                        ⢉⣿⣿⣿⣿⡗
-| |     / /__  / /________  ____ ___  ___          ⢀⣀⡀⢀⣀⣤⣤⣽⣿⣼⣿⢇⡄
-| | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \          ⠙⠗⢸⣿⠁⠈⠋⢨⣏⡉⣳
-| |/ |/ /  __/ / /__/ /_/ / / / / / /  __/            ⢸⣿⡄⢠⣴⣿⣿⣿
-|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/            ⠉⣻⣿⣿⣿⣿⣿⡟⡀
-                                                 ⠀⠀⠀⠀⠐⠘⣿⣶⡿⠟⠁⣴⣿⣄
-                                                 ⠀⠀⠀⠀⠀⠘⠛⠉⣠⣴⣾⣿⣿⣿⡦
-                                                 ⠀⠀⢀⣴⣠⣄⠸⠿⣻⣿⣿⣿⣿⠏
-                                                 ⠀⣠⣿⣿⠟⠁                  
-`````````````````````````````````````````````````````````````````````
-
-⡤⢺⣿⣶⣄⠉⠘⠛⠉⣽⣿⡇⢉⣿⡗⢀⣤⣽⣿⣼⣿⢇⡄⠙⠗⢸⣿⠁⠈⠋⢨⣏⡉⣳⢸⣿⡄⢠⣴⣿⠉⣻⣿⣿⡟⡀⠐⠘⣿⣶⡿⠟⠁⣴⣿⣄⠘⠛⠉⣠⣴⣾⣿⡦⢀⣴⣠⣄⡤⢺⣿⣶⣄⠉⠘⠛⠉⢀⣤⣽
-
-```js
-import Developer from kellymoreira;
-
-class AboutMe extends Developer {
-  name = "Kelly Cristina Moreira";
-  age = "19";
-}
-
-class Skills extends Developer {
-  certifications = "CLF-C02"
-  languages = ["JavaScript", "Java"];
-  databases = ["MySQL", "PostgreSQL", "MongoDB"];
-  management = ["Jira", "Notion"];
-  cloud = "AWS";
-}
-
-```
-
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kellymoreira&theme=calm&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kellymoreira&theme=calm)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-----
-
-
-<a href="mailto:kelly.moreira0510@proton.me">
-  <img align="right" alt="Gmail" width="30px" src="archives/gmail.png" />
-</a>
-<!--
-<a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
-  <img align="right" alt="LinkedIn" width="25px" src="archives/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/kellycrmo">
-  <img align="right" alt="Instagram" width="30px" src="archives/instagram.png" />
-</a>  -->
-
-
-
-<p>
-    <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
-  </p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 <div align="center">
-    <img src="./assignature.svg" alt="Kelly's Assignature" />
-
-<img width="59%" height="195px" src ="https://github-readme-stats.vercel.app/api?username=kellymoreira&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&title_color=F1B4BB&icon_color=FAEF9B&text_color=FFFFFF&bg_color=132043">
-<img width="39%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=true&title_color=F1B4BB&text_color=FFFFFF&bg_color=132043">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kellymoreira&bg_color=132043&color=F1B4BB&line=F1B4BB&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://streak-stats.demolab.com?user=kellymoreira&hide_border=true&ring=F1B4BB&fire=F1B4BB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1B4BB&background=132043&dates=FFFFFF&stroke=FFFFFF&border=FFFFFF&excludeDaysLabel=F1B4BB&sideLabels=F1B4BB" alt="GitHub Streak">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-moreira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kellycrmo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.moreira0510@gmail.com)
-
-  <p>
-    <img src="https://profile-counter.glitch.me/{kellymoreira}/count.svg" alt="Visitor Count" />
-  </p>
+    <img src="archives/signature.svg" alt="signature"  width="888"  />
 </div>
--->
+
+<a href=" ">
+  <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif?cid=ecf05e478d16a504c5f0ab3d36c252cc6281350fc924d322&ep=v1_user_favorites&rid=giphy.gif&ct=s" alt=" " height="200" />
+</a> <br>
+
+<a href="https://github.com/kellymoreira">
+    <img src="https://komarev.com/ghpvc/?username=kellymoreira&color=ff69b4" alt="Profile Views" />
+</a>
+<a href="https://github.com/kellymoreira?tab=followers">
+    <img src="https://img.shields.io/github/followers/kellymoreira?color=ff69b4&label=Followers" />
+</a>
+<a href="mailto:kelly.moreira0510@proton.me">
+    <img src="https://img.shields.io/badge/Email-kelly.moreira0510@proton.me-ff69b4?logoColor=white" />
+</a> <br><br>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=false&title_color=f069ac&text_color=f069ac&bg_color=FFE4E1" />
+</div> 
+
+  ### 𐚁 _badges_ 
+<a href="https://www.credly.com/badges/3c4afb74-8f43-49d8-a43c-9164fc026cb9/public_url">
+<img src="badges/aws-certified-cloud-practitioner.png" alt="cloud practitioner" width="140" height="140"/> </a>
+<a href="https://www.credly.com/badges/9bb3a783-1883-43e9-9247-c723db68e838/public_url">
+<img src="badges/aws-re-start-graduate.png" alt="graduate" width="140" height="140"/> </a>
+
+### 𐚁 _links_ 
+- [ᴄᴏᴜʀꜱᴇʀᴀ ᴘʀᴏꜰɪʟᴇ](https://www.coursera.org/user/e00d7b8c3e86fbc67412bd06bf4919a7) <br>
+   _explore my completed online courses on various topics._
+- [ᴄʀᴇᴅʟʏ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ](https://www.credly.com/badges/3c4afb74-8f43-49d8-a43c-9164fc026cb9/public_url) <br>
+   _view my earned certifications in cloud computing and other specialized areas._
+
+
+
