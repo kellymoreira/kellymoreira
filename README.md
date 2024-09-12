@@ -2,9 +2,10 @@
     <img src="archives/signature.svg" alt="signature"  width="888"  />
 </div>
 
+<!--
 <a href=" ">
   <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif?cid=ecf05e478d16a504c5f0ab3d36c252cc6281350fc924d322&ep=v1_user_favorites&rid=giphy.gif&ct=s" alt=" " height="200" />
-</a> <br>
+</a> <br> -->
 
 <a href="https://github.com/kellymoreira">
     <img src="https://komarev.com/ghpvc/?username=kellymoreira&color=ff69b4" alt="Profile Views" />
