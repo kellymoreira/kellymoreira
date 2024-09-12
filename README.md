@@ -26,7 +26,7 @@
 ### 𐚁 _links_ 
 - [ᴄᴏᴜʀꜱᴇʀᴀ ᴘʀᴏꜰɪʟᴇ](https://www.coursera.org/user/e00d7b8c3e86fbc67412bd06bf4919a7) <br>
    _explore my completed online courses on various topics._
-- [ᴄʀᴇᴅʟʏ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ](https://www.credly.com/badges/3c4afb74-8f43-49d8-a43c-9164fc026cb9/public_url) <br>
+- [ᴄʀᴇᴅʟʏ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ](https://www.credly.com/users/kelly-cristina-moreira) <br>
    _view my earned certifications in cloud computing and other specialized areas._
 
 
