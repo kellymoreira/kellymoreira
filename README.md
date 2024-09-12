@@ -20,15 +20,15 @@
 <a href="https://www.credly.com/badges/9bb3a783-1883-43e9-9247-c723db68e838/public_url">
 <img src="badges/aws-re-start-graduate.png" alt="graduate" width="140" height="140"/> </a>
 
-<!--
 ### 𐚁 _links_ 
 - [ᴄᴏᴜʀꜱᴇʀᴀ ᴘʀᴏꜰɪʟᴇ](https://www.coursera.org/user/e00d7b8c3e86fbc67412bd06bf4919a7) <br>
    _explore my completed online courses on various topics._
 - [ᴄʀᴇᴅʟʏ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ](https://www.credly.com/users/kelly-cristina-moreira) <br>
-   _view my earned certifications in cloud computing and other specialized areas._ -->
+   _view my earned certifications in cloud computing and other specialized areas._ 
 
-   ### 𐚁 _links_ 
+<!--
+### 𐚁 _links_ 
 - [COURSERA PROFILE](https://www.coursera.org/user/e00d7b8c3e86fbc67412bd06bf4919a7) <br>
    _explore my completed online courses on various topics._
 - [CREDLY CERTIFICATION](https://www.credly.com/users/kelly-cristina-moreira) <br>
-   _view my earned certifications in cloud computing and other specialized areas._
+   _view my earned certifications in cloud computing and other specialized areas._ -->
