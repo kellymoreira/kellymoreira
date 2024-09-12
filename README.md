@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="archives/signature.svg" alt="signature"  width="888"  />
+    <img src="archives/signature.svg" alt="signature"  width="800"  />
 </div>
 
 <a href="https://github.com/kellymoreira">
