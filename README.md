@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=false&title_color=f069ac&text_color=f069ac&bg_color=FFE4E1"/><img src="archives/kitten.png" height="180" />
 
-  ### 𐚁 _badges_ 
+### 𐚁 _badges_ 
 <a href="https://www.credly.com/badges/3c4afb74-8f43-49d8-a43c-9164fc026cb9/public_url">
 <img src="badges/aws-certified-cloud-practitioner.png" alt="cloud practitioner" width="140" height="140"/> </a>
 <a href="https://www.credly.com/badges/9bb3a783-1883-43e9-9247-c723db68e838/public_url">
