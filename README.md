@@ -10,9 +10,13 @@
 <a href="https://github.com/kellymoreira">
     <img src="https://komarev.com/ghpvc/?username=kellymoreira&color=ff69b4" alt="Profile Views" />
 </a>
+<a href="https://github.com/kellymoreira?tab=followers">
+    <img src="https://img.shields.io/github/followers/kellymoreira?color=ff69b4&label=Followers" />
+</a>
 <a href="mailto:kelly.moreira0510@proton.me">
     <img src="https://img.shields.io/badge/Email-kelly.moreira0510@proton.me-ff69b4?logoColor=white" />
 </a> <br><br>
+
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellymoreira&layout=compact&hide_border=false&title_color=f069ac&text_color=f069ac&bg_color=FFE4E1" />
