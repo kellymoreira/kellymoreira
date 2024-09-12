@@ -15,7 +15,7 @@
 </a>
 <a href="mailto:kelly.moreira0510@proton.me">
     <img src="https://img.shields.io/badge/Email-kelly.moreira0510@proton.me-ff69b4?logoColor=white" />
-</a> <br><br>
+</a> <br>
 
 
 <div>
