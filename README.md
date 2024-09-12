@@ -9,9 +9,6 @@
 <a href="https://github.com/kellymoreira">
     <img src="https://komarev.com/ghpvc/?username=kellymoreira&color=ff69b4" alt="Profile Views" />
 </a>
-<a href="https://github.com/kellymoreira?tab=followers">
-    <img src="https://img.shields.io/github/followers/kellymoreira?color=ff69b4&label=Followers" />
-</a>
 <a href="mailto:kelly.moreira0510@proton.me">
     <img src="https://img.shields.io/badge/Email-kelly.moreira0510@proton.me-ff69b4?logoColor=white" />
 </a> <br><br>
